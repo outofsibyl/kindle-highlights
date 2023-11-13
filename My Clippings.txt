@@ -6457,3 +6457,93 @@ Contents
 
 Table of Contents
 ==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 59 | location 713-715 | Added on Monday, 13 November 2023 15:48:08
+
+These two light sources are  reasonably well balanced. In this  case it is more helpful to think of two  distinct light sources (the orange  spotlight and the blue fill), rather  than shadow and light. Both are  strongly coloured but there is less  tonal and colour variation overall in  the blue shadowed side, owing to the  lower contrast from the fill light. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 59 | location 728-731 | Added on Monday, 13 November 2023 15:51:08
+
+if the  surface in shadow is translucent,  light from within the surface can then  emerge and affect the colour of the  shadow. This is the phenomenon,  known in CG terms as sub-surface  scattering, and is commonly seen in  human skin, marble, liquids such as  milk, foliage, or any other substance  through which light can travel. These  materials should have enough saturation in their shadows to represent this  extra light emerging from within the  surface itself.
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 61 | location 743-745 | Added on Monday, 13 November 2023 15:55:42
+
+This lamp has a purple shade, which  gives a very strong tint to its light:  note the complementary green cast  to the shadows, which is probably a  very similar phenomenon to that  observed by Count Rumford. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 61 | location 737-741 | Added on Monday, 13 November 2023 15:56:21
+
+Benjamin Thompson, also known as  Count Rumford, was the first person  to notice that our perception of colour  can be influenced by psychological  factors. He noted that in strongly  coloured lighting, shadows took on  the complementary hue of the  predominant colour, and only by  observing the shadow in isolation  from the primary light colour – by  looking through a tube – did he realize  that the effect was an optical illusion.  Not all shadows will take on the  complementary hue of the light  source, but in very strongly coloured  light this does take place. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 66 | location 823-825 | Added on Monday, 13 November 2023 16:23:25
+
+By replacing the reflective  background with a matte one, which  allows for some soft shadows to  contrast with the reflective metal,  the image becomes easier on the eye.  With the contrast provided by the  soft shadows and the matte  background, the spheres stand  out more. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 66 | location 819-820 | Added on Monday, 13 November 2023 16:23:38
+
+In terms of readability and visual  harmony, an image will ideally have a  mixture of hard and soft edges, otherwise there might be no sense of  emphasis, making the image confusing to look at. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 67 | location 830-832 | Added on Monday, 13 November 2023 16:26:05
+
+The final extra contrast has been  toned down to be more subtle, but  there is still a wide halo of increased  contrast visible, and the image has  more punch than the first example. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 67 | location 837-841 | Added on Monday, 13 November 2023 16:28:08
+
+At the other end of the spectrum are  hard edges with high contrast. With  these it is often worth exaggerating  the contrast even further. Anyone  familiar with Unsharp Mask in photoediting software will know that this  process involves artificially increasing the contrast between edges,  although in that context it is usually  done on a small enough scale for it  not to be obvious. What you may not  know is that your own eyes are also  capable of playing a similar trick,  and that your brain can create a halo  of fake contrast around hard, highcontrast edges. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 76 | location 973-975 | Added on Monday, 13 November 2023 17:25:14
+
+Compare these two images of  dry (left) and wet (right) stones. The  water makes them darker and more  reflective. You can see the strong  darkening of the stone in the corners,  and the reflection of the sky in the  middle. The increased glossiness  is creating a lot of contrast that  wouldn’t otherwise be present. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 80 | location 1015-1019 | Added on Monday, 13 November 2023 17:40:58
+
+If you look closely at the middle,  most reflective ball you can clearly  see the light sources illuminating the  room. In the less reflective ball on  the left it’s clear that the highlights  are being created by those same light  sources. Now examine the more  complicated ball on the right: it too is  reflecting the same lights but  because its surface has many  grooves, the reflections are  multiplied by each individual edge  on the surface. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 84 | location 1077-1080 | Added on Monday, 13 November 2023 17:51:38
+
+when you  are directly above the surface of the  water it will be mostly transparent  because of the lack of reflection;  however, as you look further ahead  it will be harder to see below the  surface because, as your angle of  view becomes less perpendicular,  the water will appear to be  more reflective.  This is often referred to as the  ‘fresnel effect’,
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 88 | location 1140-1143 | Added on Monday, 13 November 2023 18:03:00
+
+The body, however, does not have a smooth  texture; it is lumpier and more porous, so the  reflections are broken up more and are therefore  blurred and less detailed. The subtle gradation of  the sky is completely lost and the reflection is  just a simple white from the brightest part of  the sky, because instead of one large, smooth  reflection there are now lots of smaller,  broken-up reflections. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 88 | location 1137-1140 | Added on Monday, 13 November 2023 18:03:05
+
+Being wet, the frog has a range of specular  reflections all over its body. However, since there  is also a variation in texture over the frog’s body  the reflections are not all the same. On the legs,  which are smooth, the reflection is pure and  unbroken and the gradation of the blue sky is  clearly reflected. This almost mirror-like  reflection is created by water over a very  smooth surface. 
+==========
+14,000 Things to be Happy About (Barbara Ann Kipfer) (Z-Library) (Barbara Ann Kipfer)
+- Your Highlight on page 2 | location 1-2 | Added on Monday, 13 November 2023 18:03:46
+
+14,000 things to be happy about.
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 94 | location 1211-1215 | Added on Monday, 13 November 2023 18:14:50
+
+As light is refracted through  transparent substances the different  wavelengths are slowed down at  different rates: the blue end of the  spectrum is slowed down more and  therefore blue light will bend at a  greater angle than red light. This is  what caused the colours present in  white light to split into a spectrum in  Newton’s famous experiment with a  prism. The effect can be commonly  seen in everyday glass objects if you  look for it, in the form of colourful  halos in bright areas of the glass. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 97 | location 1243-1244 | Added on Monday, 13 November 2023 18:23:06
+
+In these thicker translucent  objects the form is flattened by  the lack of a form shadow.  Even the berries in shadow  have a glow to them. 
+==========
+Light for Visual Artists Second Edition Understanding and Using Light in Art  Design (Yot, Richard) (Z-Library) (Unknown)
+- Your Highlight on page 97 | location 1244-1245 | Added on Monday, 13 November 2023 18:23:09
+
+Translucency lends a  glow to these leaves. The area of  shadow really emphasizes the  glow of the veins withinin the  foreground leaf. 
+==========
+True to Life Twenty-Five Years of Conversations with David Hockney (Hockney, David Weschler, Lawrence) (Z-Library) (Weschler, Lawrence)
+- Your Highlight on page vi | location 34-35 | Added on Monday, 13 November 2023 21:45:11
+
+contents
+==========
