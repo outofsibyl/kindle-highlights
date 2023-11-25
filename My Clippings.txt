@@ -7749,3 +7749,678 @@ Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
 
 CONTENTS
 ==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 66 | location 607-611 | Added on Friday, 24 November 2023 18:14:16
+
+Preferences are a way to avoid making tough decisions  Instead of using your expertise to choose the best path, you’re  leaving it in the hands of customers. It may seem like you’re  doing them a favor but you’re just making busy work for them  (and it’s likely they’re busy enough). For customers, preference  screens with an endless amount of options are a headache, not  a blessing. Customers shouldn’t have to think about every nitty  gritty detail – don’t put that burden on them when it should be  your responsibility. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 67 | location 617-618 | Added on Friday, 24 November 2023 18:14:23
+
+Yes, you might make a bad call. But so what. If you do, people  will complain and tell you about it. As always, you can adjust.  Getting Real is all about being able to change on the fly. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 71 | location 659-660 | Added on Friday, 24 November 2023 18:20:47
+
+1. Decide if it’s worth doing, and if so:  2. Do it quick – not perfect. just do it.  3. Save it. upload it. publish it  4. See what people think 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 72 | location 663-667 | Added on Friday, 24 November 2023 18:21:28
+
+Break it down  Estimates that stretch into weeks or months are fantasies. The  truth is you just don’t know what’s going to happen that far  in advance.  So shrink your time. Keep breaking down timeframes into  smaller chunks. Instead of a 12 week project, think of it as 12  weeklong projects. Instead of guesstimating at tasks that take  30+ hours, break them down into more realistic 6-10 hour  chunks. Then proceed one step at a time. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 90 | location 824-829 | Added on Friday, 24 November 2023 18:32:12
+
+If you are trying to decide between a few people to fill a position, always hire the better writer. It doesn’t matter if that  person is a designer, programmer, marketer, salesperson, or  whatever, the writing skills will pay off. Effective, concise  writing and editing leads to effective, concise code, design,  emails, instant messages, and more.  That’s because being a good writer is about more than words.  Good writers know how to communicate. They make things  easy to understand. They can put themselves in someone else’s  shoes. They know what to omit. They think clearly. And those  are the qualities you need. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 90 | location 824-829 | Added on Friday, 24 November 2023 18:32:18
+
+Hire good writers  If you are trying to decide between a few people to fill a position, always hire the better writer. It doesn’t matter if that  person is a designer, programmer, marketer, salesperson, or  whatever, the writing skills will pay off. Effective, concise  writing and editing leads to effective, concise code, design,  emails, instant messages, and more.  That’s because being a good writer is about more than words.  Good writers know how to communicate. They make things  easy to understand. They can put themselves in someone else’s  shoes. They know what to omit. They think clearly. And those  are the qualities you need. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 92 | location 838-840 | Added on Friday, 24 November 2023 18:34:29
+
+Interface First  Design the interface before you start programming  Too many apps start with a program-first mentality. That’s a  bad idea. Programming is the heaviest component of building  an app, meaning it’s the most expensive and hardest to change.  Instead, start by designing first. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 94 | location 863-866 | Added on Friday, 24 November 2023 18:34:48
+
+Epicenter Design  Start from the core of the page and build outward  Epicenter design focuses on the true essence of the page – the  epicenter – and then builds outward. This means that, at the  start, you ignore the extremities: the navigation/tabs, footer,  colors, sidebar, logo, etc. Instead, you start at the epicenter and  design the most important piece of content first. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 94 | location 869-870 | Added on Friday, 24 November 2023 18:35:18
+
+about the second most critical element on the page. Then after  the second most critical element, you’d move on to the third,  and so on. That’s epicenter design. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 94 | location 868-870 | Added on Friday, 24 November 2023 18:35:25
+
+Only when that unit is complete would you begin to think  about the second most critical element on the page. Then after  the second most critical element, you’d move on to the third,  and so on. That’s epicenter design. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 132 | location 1171-1172 | Added on Friday, 24 November 2023 19:08:14
+
+pre-hype, people aren’t going to know about it.  To build up buzz and anticipation, go with a Hollywood-style  launch: 1) Teaser, 2) Preview, and 3) Launch. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 132 | location 1171-1172 | Added on Friday, 24 November 2023 19:08:20
+
+The point here is that if you launch your  app without any pre-hype, people aren’t going to know about it.  To build up buzz and anticipation, go with a Hollywood-style  launch: 1) Teaser, 2) Preview, and 3) Launch. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 133 | location 1180-1185 | Added on Friday, 24 November 2023 19:08:55
+
+tell people about the ideas and principles behind the app.  For Backpack, we posted our manifesto before launch. This got  people thinking and talking about the app.  You can also offer some special “golden tickets” to a few people  so they can start using the app early. You’ll get the benefit of  having some beta testers while they’ll feel that special glow that  people get from being early adopters.  And again, encourage people to sign up so you’ve got a foundation of emails to blitz once you launch. By the time we launch  our apps, we have thousands of emails to ping which is a big  help in gaining traction. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 132 | location 1172-1177 | Added on Friday, 24 November 2023 19:09:09
+
+Teaser  A few months ahead of time, start dropping hints. Let people  know what you’re working on. Post a logo. Post to your blog  about the development. Stay vague but plant the seed. Also,  get a site up where you can collect emails from folks who  are interested.  At this stage, you should also start seducing mavens and insiders. These are the folks on the cutting edge. They’re  the tastemakers. Appeal to their vanity and status as  ahead-of-the-curvers. Tell them they’re getting an exclusive sneak preview. If a site like Boing Boing, Slashdot, or  Digg links up your app, you’ll get loads of traffic and followers. Plus, your page rank at Google will go up too. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 132 | location 1177-1179 | Added on Friday, 24 November 2023 19:09:15
+
+Preview  A few weeks ahead of launch, start previewing features. Give  people behind-the-scenes access. Describe the theme of the  product. For Basecamp, we posted screenshots and highlighted  reminders, milestones, and other features. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 133 | location 1185-1187 | Added on Friday, 24 November 2023 19:09:23
+
+Launch  It’s release time. Now people can actually go to the “theater”  and see your app. Get emails out to those who signed up.  Launch your full marketing site. Spread the gospel as much as  possible. Get blogs to link to you. Post about your progress:  How many people have signed up? What updates/tweaks have  you made? Show momentum and keep at it. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 135 | location 1206-1207 | Added on Friday, 24 November 2023 19:12:02
+
+Build an ace promotional site that introduces people to  your product 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 135 | location 1208-1213 | Added on Friday, 24 November 2023 19:12:08
+
+Overview: Explain your app and its benefits.  Tour: Guide people through various features.  Screen captures and videos: Show people what the app  actually looks like and how to use it.  Manifesto: Explain the philosophy and ideas behind it.  Case Studies: Provide real life examples that show  what’s possible.  Buzz: Testimonial quotes from customers, reviews, press, etc.  Forum: Offer a place for members of the community to help  one another.  Pricing & Sign-up: Get people into your app as quickly  as possible.  Weblog: Blogs keep your site fresh with news, tips, etc. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 136 | location 1213-1216 | Added on Friday, 24 November 2023 19:13:15
+
+Blogging can be more effective than advertising (and it’s  a hell of a lot cheaper)  Advertising is expensive. And evaluating the effectiveness of  various types of advertising can wind up being even more  expensive than the advertising itself. When you don’t have the  time or money to go the traditional advertising route, consider  the promote-via-blog route instead. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 150 | location 1334-1334 | Added on Friday, 24 November 2023 19:18:29
+
+Quick turnaround time on support queries should be a  top
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 150 | location 1334-1334 | Added on Friday, 24 November 2023 19:18:33
+
+Quick turnaround time on support queries should be a  top priority 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 150 | location 1337-1341 | Added on Friday, 24 November 2023 19:18:52
+
+Even if you don’t have a perfect answer, say something. You  can buy goodwill with a response that is delivered quickly in an  open, honest way. If someone is complaining about an issue that  can’t be fixed immediately, tell them something like, “We hear  what you’re saying and we’ll be working on it in the future.” It’s  a great way to diffuse a potentially negative situation.  Customers appreciate directness and will often shift from  angry to polite if you respond quickly and in a straight-shooting manner. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 158 | location 1390-1392 | Added on Friday, 24 November 2023 19:21:59
+
+A quick update shows momentum. It shows you’re listening.  It shows you’ve got more tricks up your sleeve. It gives you a  second wave of buzz. It reaffirms initial good feelings. It gives  you something to talk about and others to blog about. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 158 | location 1390-1392 | Added on Friday, 24 November 2023 19:22:04
+
+Issue a major update 30 days after launch  A quick update shows momentum. It shows you’re listening.  It shows you’ve got more tricks up your sleeve. It gives you a  second wave of buzz. It reaffirms initial good feelings. It gives  you something to talk about and others to blog about. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 158 | location 1392-1393 | Added on Friday, 24 November 2023 19:22:23
+
+Knowing a quick upgrade is coming also lets you put the focus  on the most crucial components before launch.
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 159 | location 1398-1401 | Added on Friday, 24 November 2023 19:25:21
+
+product development blog post-launch  Don’t stop blogging once you launch. Show your product is a  living creature by keeping a dedicated blog that you update frequently (at least once a week, more often if you can).  Things to include:  Faqs  How-tos  Tips & tricks  New features, updates, & fixes  Buzz/press  A blog not only shows your app is alive, it makes your  company seem more human.
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 159 | location 1398-1401 | Added on Friday, 24 November 2023 19:25:28
+
+Show your product is alive by keeping an ongoing  product development blog post-launch  Don’t stop blogging once you launch. Show your product is a  living creature by keeping a dedicated blog that you update frequently (at least once a week, more often if you can).  Things to include:  Faqs  How-tos  Tips & tricks  New features, updates, & fixes  Buzz/press  A blog not only shows your app is alive, it makes your  company seem more human.
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 162 | location 1427-1429 | Added on Friday, 24 November 2023 19:27:57
+
+Prioritize your bugs. How many people are affected? How bad is  the problem? Does this bug deserve immediate attention or can  it wait? What can you do right now that will have the greatest  impact for the greatest number of people? Often times adding  a new feature may even be
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 162 | location 1427-1430 | Added on Friday, 24 November 2023 19:28:06
+
+Prioritize your bugs. How many people are affected? How bad is  the problem? Does this bug deserve immediate attention or can  it wait? What can you do right now that will have the greatest  impact for the greatest number of people? Often times adding  a new feature may even be more important to your app than  fixing an existing bug. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 163 | location 1437-1440 | Added on Friday, 24 November 2023 19:29:27
+
+Resist the urge to panic or rapidly change things in response.  Passions flare in the beginning. But if you ride out this initial  24-48 hour period, things will usually settle down. Most people  respond before they’ve really dug in and used whatever you’ve  added (or gotten along with what you’ve removed). So sit back,  take it all in, and don’t make a move until some time has passed.  Then you’ll be able to offer a more reasoned response. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 168 | location 1467-1470 | Added on Friday, 24 November 2023 19:31:43
+
+Execution  Everyone can read a book. Everyone can come up with an idea.  Everyone has a cousin that’s a web designer. Everyone can write  a blog. Everyone can hire someone to hack together some code.  The difference between you and everyone else will be how well  you execute. Success is all about great execution. 
+==========
+Getting Real The smarter, faster, easier way to build a successful web application (Jason Fried, Heinemeier David Hansson etc.) (z-lib.org) (Rongrong)
+- Your Highlight on page 169 | location 1486-1487 | Added on Friday, 24 November 2023 19:33:24
+
+Apple’s iPod differentiates itself from competitors by not  offering features like a built-in fm radio or a voice recorder. 
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 19 | location 322-328 | Added on Friday, 24 November 2023 19:44:56
+
+When we tear ourselves away from the Busy Bandwagon, the Infinity Pools are ready to lure us in. While the Busy Bandwagon defaults to endless tasks, the Infinity Pools default to endless distraction. Our phones, laptops, and televisions are filled with games, social feeds, and videos. Everything is at our fingertips, irresistible, even addictive. Every bump of friction is smoothed away. Refresh Facebook. Browse YouTube. Keep up on the nonstop breaking news, play Candy Crush, binge-watch HBO. These are the defaults behind the ravenous Infinity Pools, devouring every scrap of time the Busy Bandwagon leaves behind. With the average person spending four-plus hours a day on their smartphone and another four-plus hours watching TV shows, distraction is quite literally a full-time job.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 31 | location 454-455 | Added on Friday, 24 November 2023 19:54:19
+
+The first thing we learned was that something magic happens when you start the day with one high-priority goal.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 31 | location 457-459 | Added on Friday, 24 November 2023 19:54:40
+
+This focal point creates clarity and motivation. When you have one ambitious but achievable goal, at the end of the day, you’re done. You can check it off, let go of work, and go home satisfied.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 46 | location 593-594 | Added on Friday, 24 November 2023 19:59:11
+
+We do not remember days, we remember moments.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 46 | location 598-600 | Added on Friday, 24 November 2023 19:59:16
+
+This chapter is about stopping the blur, slowing down, and actually experiencing the moments you want to savor and remember rather than rushing through them just to get to that next item on your to-do list. This idea is pretty simple, but we came about it the hard way, by losing weeks and months of our own lives to a whirling churn of busyness.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 54 | location 684-685 | Added on Friday, 24 November 2023 20:04:16
+
+The first strategy is all about urgency: What’s the most pressing thing I have to do today?
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 53 | location 682-683 | Added on Friday, 24 November 2023 20:04:21
+
+We use three different criteria to choose our Highlight.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:28
+
+bi
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:30
+
+biru
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:32
+
+比如w
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:34
+
+比如wo
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:36
+
+比如wojint
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:38
+
+比如我今天ya
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:40
+
+比如我今天yaowanch
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:42
+
+比如我今天yaowanchengshe
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:44
+
+比如我今天yaowanchengshenme
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:46
+
+比如我今天要完成什么cai
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:48
+
+比如我今天要完成什么caineng
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:50
+
+比如我今天要完成什么才能
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:52
+
+比如我今天要完成什么才能baozhe
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:54
+
+比如我今天要完成什么才能保证
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:56
+
+比如我今天要完成什么才能保证ming
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:04:58
+
+比如我今天要完成什么才能保证明天
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:00
+
+比如我今天要完成什么才能保证明天的
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:02
+
+比如我今天要完成什么才能保证明天的gongz
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:04
+
+比如我今天要完成什么才能保证明天的工作
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:10
+
+比如我今天要完成什么才能保证明天的工作顺利
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:12
+
+比如我今天要完成什么才能保证明天的工作顺利kaish
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:14
+
+比如我今天要完成什么才能保证明天的工作顺利开始
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 54 | location 685 | Added on Friday, 24 November 2023 20:05:20
+
+比如我今天要完成什么才能保证明天的工作顺利开始?
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 54 | location 696-697 | Added on Friday, 24 November 2023 20:06:00
+
+The second Highlight strategy is to think about satisfaction: At the end of the day, which Highlight will bring me the most satisfaction?
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 55 | location 709-710 | Added on Friday, 24 November 2023 20:06:17
+
+The third strategy focuses on joy: When I reflect on today, what will bring me the most joy?
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 66 | location 837-838 | Added on Friday, 24 November 2023 20:59:04
+
+It can be tough to focus on your Highlight when you know there are dozens of non-Highlight tasks piling up.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 66 | location 840-842 | Added on Friday, 24 November 2023 20:59:12
+
+Fortunately, we have a solution: Bundle up the small tasks and use batch processing to get them all done in one Highlight session. In other words, make a batch of small things your big thing. For example, one day this week, JZ’s Highlight will be “catch up on email” or “return phone calls.”
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 72 | location 896-899 | Added on Friday, 24 November 2023 21:03:55
+
+1. Divide a sheet of paper into two columns. Get out a single blank sheet of paper and create two columns by drawing a line down the middle. The left-hand column is going to be your front burner, and the right-hand column your back burner.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 73 | location 899-903 | Added on Friday, 24 November 2023 21:04:00
+
+2. Put your most important project on the front burner. You are allowed to have one and only one project, activity, or objective on the front burner. Not two, not three—just one.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 76 | location 936-939 | Added on Friday, 24 November 2023 21:06:56
+
+This is why, in our design sprints, teams work on the same project for five days in a row. Information stays in people’s working memory from one day to the next, allowing them to get deeper and deeper into the challenge. As a result, we can accomplish exponentially more than we could if those same hours were spread across weeks and months.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 77 | location 947-949 | Added on Friday, 24 November 2023 21:07:05
+
+I’ve seen this effect with my writing. The first day after a long break is hard. I may not write much of anything, and I get frustrated and cranky. The second day is still slow, but I feel I’m starting to boot up. By the third day and fourth day, I’m in the zone—and I do whatever I can to keep the momentum.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:30
+
+how t
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:32
+
+how to stay
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:34
+
+how to stay in th
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:36
+
+how to stay in the zon
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:38
+
+how to stay in the zone
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:40
+
+how to stay in the zone 
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:42
+
+how to stay in the zone - 
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:46
+
+how to stay in the zone - ji
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:48
+
+how to stay in the zone - jinqul
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:50
+
+how to stay in the zone - 进去了
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:52
+
+how to stay in the zone - 进去了jiubie
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:54
+
+how to stay in the zone - 进去了jiubiechula
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 77 | location 949 | Added on Friday, 24 November 2023 21:07:56
+
+how to stay in the zone - 进去了就别出来
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 80 | location 979-983 | Added on Friday, 24 November 2023 21:08:58
+
+Early in my career, I didn’t have many meetings, so I never used a calendar. But I had a to-do list. Every day I’d get to the office, take a look at my to-do list, and think, “What should I do today? Ooh, that!” I’d pick out something that seemed easy and time-sensitive and get to work. But by the end of the day, I was often disappointed: I hadn’t necessarily done the most important things, and I never finished everything on my to-do list.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 83 | location 1012-1014 | Added on Friday, 24 November 2023 21:11:33
+
+Take it seriously. If you don’t take those commitments seriously, other people won’t either. Treat these blocks like important meetings, and when people try to double-book you, remember Graham’s simple and effective comeback: “I’ve already got plans.”
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 94 | location 1129-1133 | Added on Friday, 24 November 2023 21:20:19
+
+Giving yourself something to do in the morning will help you wake up early, but for me it’s also why I wake up early. Even on the days when I don’t work on my daily Highlight first thing in the morning, I still find reasons to make time in those predawn hours. Exercise is a great morning activity. Even doing dishes, ironing shirts, or straightening up around the house helps me wake up and feel productive before the day has started.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 99 | location 1199-1201 | Added on Friday, 24 November 2023 21:25:09
+
+In our design sprints, we found that if we ended each workday before people were exhausted, the week’s productivity increased dramatically. Even shortening the day by thirty minutes made a big difference.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 99 | location 1199-1206 | Added on Friday, 24 November 2023 21:25:34
+
+In our design sprints, we found that if we ended each workday before people were exhausted, the week’s productivity increased dramatically. Even shortening the day by thirty minutes made a big difference. When should you quit? Instead of trying to answer every email (not happening) or finish every task (dream on), you need to create your own finish line. Perhaps you can find a perfect time of day to stop—in our design sprints, we used 5 p.m. as our cutoff. Or you can use your Highlight. As quitting time approaches, think about whether you accomplished your Highlight. If you have, you can rest knowing you made time for the day’s most important job. No matter how much you did or didn’t get done or how many hours you did or didn’t work, you’ll be able to look back on the day with a sense of joy, accomplishment, or satisfaction—or all three!
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 104 | location 1235-1236 | Added on Friday, 24 November 2023 21:26:34
+
+To pay attention, this is our endless and proper work.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 104 | location 1235-1237 | Added on Friday, 24 November 2023 21:26:44
+
+To pay attention, this is our endless and proper work. —MARY OLIVER
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 132 | location 1572-1579 | Added on Friday, 24 November 2023 21:41:57
+
+Skip the Morning Check-In When you wake up in the morning, whether you slept for five hours or ten, you’ve had a nice long break from the Busy Bandwagon and the Infinity Pools. This is a golden moment. The day is fresh, your brain is rested, and you have no reason to feel distracted yet. No news items to stress about, no work emails to stew over. Savor it. Don’t reach for email, Twitter, Facebook, or the news right away. It’s very tempting to do a check-in first thing in the morning and get the latest updates; after all, something in the world always changes overnight. But as soon as you fire up that screen, you start a tug-of-war of attention between the present moment and everything out there on the Internet. Put it off. The longer you postpone the morning check-in—until 9 a.m., 10 a.m., or even after lunch—the longer you preserve that feeling of rested calm and the easier it is to get into Laser mode.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 137 | location 1639-1645 | Added on Friday, 24 November 2023 21:46:03
+
+I used to feel guilty if I wasn’t reading the news every day. After a lot of consideration, I realized that there are three categories of things I want to know about. First, I want to be aware of major trends in economics, politics, business, and science. Second and maybe selfishly, I care about topics that will affect me directly, such as a change in health-care policy. Third, I want to know about opportunities to support others—for example, after a natural disaster. Then I realized I don’t need the daily news for any of this. Between reading The Economist, listening to a weekly news podcast with my wife, and hearing the everyday talk of the town, I’m more than up to speed. Then, when I need to take action, I can always research more.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 171 | location 2040-2048 | Added on Saturday, 25 November 2023 10:59:36
+
+Find Flow 48. Shut the Door 49. Invent a Deadline 50. Explode Your Highlight 51. Play a Laser Sound Track 52. Set a Visible Timer 53. Avoid the Lure of Fancy Tools 54. Start on Paper
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 181 | location 2162-2168 | Added on Saturday, 25 November 2023 13:35:59
+
+Stay in the Zone 55. Make a “Random Question” List 56. Notice One Breath 57. Be Bored 58. Be Stuck 59. Take a Day Off 60. Go All In
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 183 | location 2185-2191 | Added on Saturday, 25 November 2023 13:38:40
+
+Be Bored When you’re deprived of distraction, you may feel bored—but boredom is actually a good thing. Boredom gives your mind a chance to wander, and wandering often leads you to interesting places. In separate studies, researchers at Penn State and the University of Central Lancashire found that bored test subjects were better at creative problem solving than were their nonbored peers.19 So next time you are feeling understimulated for a few minutes, just sit there. You’re bored? Lucky you!
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 183 | location 2194-2199 | Added on Saturday, 25 November 2023 13:39:26
+
+The easy road out of Stucksville is to do something else. Check your phone. Dash off an email. Turn on the TV. These things are easy, but they cut into the time you’ve made for your Highlight. Instead, just be stuck. Don’t give up. Stare at the blank screen, or switch to paper, or walk around, but keep your focus on the project at hand. Even when your conscious mind feels frustrated, some quiet part of your brain is processing and making progress. Eventually, you will get unstuck, and then you’ll be glad you didn’t give up.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 243 | location 2860-2862 | Added on Saturday, 25 November 2023 15:58:32
+
+As I used Headspace, it became easier to concentrate for long periods. My thoughts had more clarity. And, though I know this sounds odd, I felt more willing to be myself. (Which I think is a good thing.)
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 242 | location 2855-2856 | Added on Saturday, 25 November 2023 15:58:39
+
+I started tracking how I felt after each session to see if Headspace improved my focus. It did.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Highlight on page 276 | location 3204-3205 | Added on Saturday, 25 November 2023 16:31:34
+
+The more I made time for writing, the more I wanted to write. Finally, I decided to try doing it as a full-time job. This major shift in my priorities didn’t happen overnight. It was like a snowball rolling downhill, growing with every revolution.
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:48
+
+y
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:50
+
+yngche
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:52
+
+yngcheng
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:54
+
+yngchen
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:56
+
+yn
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:31:58
+
+y
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:00
+
+ya
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:02
+
+yangc
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:04
+
+养成
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:10
+
+养成y
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:12
+
+养成youxia
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:14
+
+养成youxiao
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:16
+
+养成yo
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:18
+
+养成y
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:20
+
+养成zh
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:22
+
+养成zhuanz
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:24
+
+养成zhuanzhudex
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:26
+
+养成专注的习惯
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:32
+
+养成专注的习惯y
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:34
+
+养成专注的习惯yaoco
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:36
+
+养成专注的习惯要从
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:38
+
+养成专注的习惯要从meiy
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:40
+
+养成专注的习惯要从meiyici
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:42
+
+养成专注的习惯要从meiyicide
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:44
+
+养成专注的习惯要从每一次的zhu
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:46
+
+养成专注的习惯要从每一次的zhuanzh
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:48
+
+养成专注的习惯要从每一次的专注
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:54
+
+养成专注的习惯要从每一次专注
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:56
+
+养成专注的习惯要从每一次dache专注
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:32:58
+
+养成专注的习惯要从每一次达成专注
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:00
+
+养成专注的习惯要从每一次达成专注mu
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:02
+
+养成专注的习惯要从每一次达成专注m
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:04
+
+养成专注的习惯要从每一次达成专注re
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:06
+
+养成专注的习惯要从每一次达成专注renwuka
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:08
+
+养成专注的习惯要从每一次达成专注renwukaishi
+==========
+Make Time_ How to Focus on What Matters Ev - Jake Knapp (Jake Knapp)
+- Your Note on page 276 | location 3205 | Added on Saturday, 25 November 2023 16:33:10
+
+养成专注的习惯要从每一次达成专注任务开始
+==========
