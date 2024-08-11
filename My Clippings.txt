@@ -22475,3 +22475,323 @@ Outlive The Science and Art of Longevity (Peter Attia, MD) (Z-Library) (Rongrong
 
 政府偿还国债的资金本质上是来自未来从国民手中征收的税金和社会保险费。在征收的税收和社会保险费总额中，需要扣除养老金、医疗保险等社会保障支出，此外还要扣除政府向公众提供的国防和教育等的公共服务支出，剩余的资金才用于偿还国债。也就是说，如果预期财政盈余折现值超过了当时的国债发行余额，则政府具有偿还能力。如果财政盈余的折现值低于国债发行余额，也就是预期政府没有足够的偿还能力时，理论上有三种可能的解决方案。第一是不履行债务，即违约。这意味通过国债持有者承担损失的形式，将国债发行余额削减到财政盈余的折现值范围内。但是，由于国债作为高安全性和高流动性的金融资产，广泛为金融机构所持有，国债违约会侵蚀金融机构的自有资本，进而带来金融体系动荡。金融体系动荡波及实体经济，又会出现金融危机和财政状况恶化的负面连锁效应。 第二是实施通货膨胀政策。运用中央银行大量发行货币所带来的铸币税收入弥补政府偿付缺口，也就是通过中央银行为财政融资的方式解决问题。这种操作既能通过增加铸币税来填补偿还国债的资金缺口，还能运用通货膨胀方式减轻政府的实际债务负担，从而避免债务违约。但是，这种放弃物价稳定目标的方式会破坏经济可持续增长的根基，最终会给国民带来损失。 第三是通过财政健全化改革及增强经济实力来提高财政盈余的折现值。毫无疑问，这是最理想的方案，而在民主社会中，要削减财政支出、提高税率或社会保险费、推进旨在提高经济增长实力的制度改革，需要在整个社会达成共识。 综上所述，当财政可持续性出现问题时，如果不采取必要的财政或经济结构改革，最终要么是金融体系动荡，要么是物价疯涨，陷入二者必择其一的被动局面。中央银行的目标是同时实现物价稳定和金融体系稳定，而人们总是忘记实现这两个目标都需要财政可持续性的支撑。货币稳定目标并不是中央银行通过行使独立性、努力工作就能实现的。即使中央银行努力工作，如果财政可持续性受到挑战，中央银行就必须在物价稳定和金融体系稳定之间做出孰先孰后的艰难抉择，结果都会影响货币稳定。
 ==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 448 | location 6732-6742 | Added on Monday, 29 July 2024 20:57:51
+
+假如政策目标是提高物价水平，那么零利率约束下就需要采取扩张性财政政策。而且，这种财政扩张不单纯是财政赤字的一时扩大，而是经常性的赤字增加。如果将这个理论与当时盛行的2%物价上涨率舆论结合在一起，就意味着在实现2%的物价上涨率目标之前需要一直维持财政赤字。而且要让多数民间经济主体相信，一旦实现了2%这个目标，财政就会回到原来的中立立场。这是以假定财政当局可以有效控制预期为前提的，现实中不具有这种可能性。很多人似乎都模模糊糊地认为，不管日本的财政状况有多糟糕，最终都要回到健全化轨道。如果真想改变这种预期，必须采取极端的做法，而采取这种极端做法的政府最终还会去努力实现财政健全化……有常识的国民能相信这种事情吗？进一步讲，物价稳定是中央银行被赋予的最为重要的目标，而在考虑一国经济的整体稳定时，中央银行是否能将提高物价上涨率作为在任何状况下都优先考虑的事项呢？而且，当时还没有明确认识到，即使政府采取极端做法的结果是带来物价上涨，也只不过是概念上与财政盈余增加相对应的物价水平的一次跳跃，并不会带来恒常式的物价上涨。
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 457 | location 6899-6904 | Added on Monday, 29 July 2024 21:07:37
+
+公共地悲剧”（tragedy of the commons）。“公共地”就是众多人可以共同使用的牧场或者渔场，如牧场草地可供众多牧民同时放牧。如果是自己的牧场，牧民就会通过调整牛群数量保证牧草的正常生长；而若是公共地，每个牧民都会一直增加牛群数量，因为如果自己不增加而别人增加，就会减少自己的收益。结果只要是牧民可以自由使用的公共地，作为资源的牧草一定会消耗殆尽，所有牧民的利益都会受到损害。上面讲过的过度消费金融稳定服务与公共牧场的情形完全相同。
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 465 | location 7013-7025 | Added on Monday, 29 July 2024 21:13:27
+
+面临的利率风险也是非常重要的。金融机构不管是通过存款还是通过金融市场筹集的资金都是相对短期的，而资金运用不管是贷款还是购买债券都是相对长期的。由于长期利率要高于短期利率，金融机构可以获得正的利差，如果是在金融紧缩状况下，短期利率上升时会缩小长短期利率差，有时甚至还会出现利率倒挂。这种由利率变动引起的收益变动就是利率风险。全球金融危机之前，利率风险不是资本充足率规制的对象，只需充分重视并予以监控。 利率风险在研究货币政策传导机制方面也是非常重要的。短期利率下降是宽松货币政策的出发点，而发挥宽松货币政策效果的一个机制就是实现整体利率水平的下降，促使资金筹措主体增加借款或者增发债券。另一个机制是基于银行短期筹资、长期运用的资产负债结构，短期利率的下降会扩大银行存贷差，促使银行增加贷款和有价证券投资，积极增加信贷供给。 积极增加信贷供给也是发挥宽松货币政策效果过程中的重要波及路径之一，但如果金融机构超过自身风险承受能力过度偏好利率风险的话，当景气恢复或物价上升引起利率上升时，收益就会降低，致使金融机构经营陷入困境，最终会给实体经济带来负面影响。因此，如何管理利率风险也是货币政策运行过程中的重要问题。
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 491 | location 7431-7434 | Added on Wednesday, 31 July 2024 23:32:25
+
+我自始至终都不认同这种将日元贬值看作采用通货膨胀目标制效果的主张。这一时期的日元贬值固然有日本银行宽松货币政策的影响，但更本质的原因是全球金融市场风险规避意识的降低。其契机是欧洲央行发布3年期的长期再融资计划（LTRO）以及对希腊实施的第二次资金援助，这些举措暂时降低了欧元崩溃风险，相应降低了日元作为避险货币的投资需求。
+==========
+人类网络：社会位置决定命运 【美】马修·杰克逊 (Z-Library) (SoBooKs.cc 余江 【美】马修·杰克逊)
+- Your Highlight on page 3 | location 3-3 | Added on Thursday, 1 August 2024 16:14:24
+
+第1章
+==========
+How the World Became Rich_Koyama, Mark & Rubin, Jared (Mark Koyama)
+- Your Highlight at location 6-6 | Added on Thursday, 1 August 2024 16:14:36
+
+CONTENTS
+==========
+權力與進步：科技變革與共享繁榮之間的千年辯證(戴倫 · 艾塞默魯 (Daron Acemoglu) etc.) (Z-Library) (戴倫．艾塞默魯、賽門．強森)
+- Your Highlight at location 33-33 | Added on Thursday, 1 August 2024 16:14:59
+
+目錄
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 559 | location 8448-8452 | Added on Saturday, 3 August 2024 16:58:17
+
+与上述讨论同时出现的是时任美联储理事伯南克发起的“全球储蓄过剩”问题的讨论。他指出由于新兴市场国家的过度储蓄，导致美国长期利率降低到难以用美国国内经济因素解释的水平。如果一国储蓄超过投资，会出现经常收支盈余，相应增加对外净资产规模；一部分增加的对外净资产投资美国国债，因此带来美国长期利率下降。按照这种说法，新兴市场国家的过剩储蓄成为导致美国房地产泡沫乃至全球金融危机的原因之一。
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 559 | location 8446-8452 | Added on Saturday, 3 August 2024 16:58:25
+
+在这方面经常听到的一个议论，就是担忧伴随美国经常收支赤字而出现的对外债务增加会引发美元暴跌。“广场协议”之前也是如此，在全球金融危机前的国际会议上，新兴市场国家的经常项目顺差、相对应的美国经常项目逆差和资本流入成为热门的讨论话题。 与上述讨论同时出现的是时任美联储理事伯南克发起的“全球储蓄过剩”问题的讨论。他指出由于新兴市场国家的过度储蓄，导致美国长期利率降低到难以用美国国内经济因素解释的水平。如果一国储蓄超过投资，会出现经常收支盈余，相应增加对外净资产规模；一部分增加的对外净资产投资美国国债，因此带来美国长期利率下降。按照这种说法，新兴市场国家的过剩储蓄成为导致美国房地产泡沫乃至全球金融危机的原因之一。
+==========
+动荡时代 (（日）白川方明) (Z-Library) (（日）白川方明)
+- Your Highlight on page 598 | location 8999-9002 | Added on Saturday, 3 August 2024 17:24:54
+
+我强烈地感受到，人类除非真正经历危机，否则很难将来自他人的教训作为前车之鉴。或许也可以说，日本在汲取全球金融危机教训时也是同样。由于日本国内金融体系相对稳定，对全球金融危机后国外的应对有一种“隔岸观火”的心态，必要的改革也没能顺利推进。从这个意义上说，日本也没有充分汲取海外的教训。
+==========
+十年轮回：从亚洲到全球的金融危机 (沈联涛) (Z-Library) (沈联涛)
+- Your Highlight at location 5-5 | Added on Saturday, 3 August 2024 19:52:08
+
+目录
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 17 | location 217-218 | Added on Saturday, 3 August 2024 19:54:58
+
+“赢家的游戏”往往会走向自我终结，因为它吸引了太多的参与者，每个人都想赢。（这也是淘金热最后都惨淡收场的原因。）
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 17 | location 217-223 | Added on Saturday, 3 August 2024 19:55:06
+
+“赢家的游戏”往往会走向自我终结，因为它吸引了太多的参与者，每个人都想赢。（这也是淘金热最后都惨淡收场的原因。）被我们称为“金钱游戏”的投资管理几十年内从赢家游戏转变成输家游戏，是因为其间投资环境发生了基本的变化：20世纪七八十年代，市场被少数努力拼搏以战胜市场的机构所支配。但是现在，主动型的投资经理们已经不再是和过度谨慎的资产管理者或者是过度自信、与瞬息万变的市场脱节的业余股民竞争，如今他们已经身处一场“输家的游戏”，要和其他忘我工作的投资专家对抗。获胜的唯一秘诀就是更少犯错。核心问题已经非常清楚！作为一个整体，专业投资经理正支配着市场。这些投资经理如此出色，以至任何单个专业人士想跑赢总体市场都几乎是不可能的。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 30 | location 418-421 | Added on Saturday, 3 August 2024 20:05:55
+
+理论上讲，主动型基金经理可以通过以下四种投资方法中的任何一种或者全部方法的组合来获得成功： ·波段操作； ·精选个股或者板块； ·资产配置或投资决策； ·发展并实践长期投资理念或者哲学。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 33 | location 450-454 | Added on Saturday, 3 August 2024 20:08:07
+
+标普500的平均收益率直观地表明：在过去75年内所有的市场回报，是在最好的60个月里实现的，只占到为期800个月的7%。（如果我们能像沃尔特·米蒂一样轻松地预知是哪些月份，试想利润有多高！但是，我们现在做不到，以后也不可能做到。）我们都知道一个简单却很有价值的事实：如果你错过了这美妙的60个月，你可能就会错过整整三代人才能积累的几乎所有的投资收益。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 37 | location 514-524 | Added on Saturday, 3 August 2024 20:15:11
+
+眼看着大量战胜市场的好“机遇”，缺乏经验的投资者很难也很不愿意接受长期来看几乎不可能击败市场的事实。优秀的投资经理也在期待他们勤奋拼搏的对手会因为能力问题、失误或注意力不集中而给自己提供大量的好机会，在此基础上，他们就能在交易中获取高额收益，从而通过击败对手来击败市场。 在电影《全金属外壳》中，两个教官看着他们教出来的队伍一面排着密集队形跑进结业典礼会场，一面高呼“空降特军，一往无前”。一个教官说：“警官，看到这些小伙子，你怎么想？”另一个教官吐了口唾沫，回答：“我怎么想？告诉你吧。我觉得他们中10%的人的确是好战士！”停顿片刻，他接着说，“其他的人都只是枪靶子！”这只是电影里的一幕，但对每一位个人投资者来说，其现实意义值得深思。 让我们来看看事实的真相。假设你投资技术精湛、信息灵通，是20%最优秀散户中的一员。太好了！但你要小心！因为就算你远超出平均水平，在现如今这个由就职于大型机构的专家所主导的交易市场，你也几乎肯定会做出低于平均水平的投资或者投资决策，只是次数的问题。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 79 | location 1067-1073 | Added on Sunday, 4 August 2024 11:56:26
+
+长线投资者根据经验发现经济行为具有钟形曲线的分布规律（事件的正态分布），以及经济和股市主要力量通过均值重置趋于“正常”的强大趋势。他们知道，当前事件离钟形曲线的中心越远，把当前数据拉向中心的向均值回归的力量就越强。 均值回归也描述了现实世界的特征。水手都了解“复原力臂”的强大力量。当船越来越倾斜时，龙骨使船保持正常的力量就越强。当旱鸭子越来越担心翻船的时候，经验丰富的水手知道防止船体不断倾斜的力量在加强。同样，今天的温度越高，明天的温度就越可能比今天低。个子很高的人生出来的小孩很可能比他们矮。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 79 | location 1067-1077 | Added on Sunday, 4 August 2024 11:57:02
+
+长线投资者根据经验发现经济行为具有钟形曲线的分布规律（事件的正态分布），以及经济和股市主要力量通过均值重置趋于“正常”的强大趋势。他们知道，当前事件离钟形曲线的中心越远，把当前数据拉向中心的向均值回归的力量就越强。 均值回归也描述了现实世界的特征。水手都了解“复原力臂”的强大力量。当船越来越倾斜时，龙骨使船保持正常的力量就越强。当旱鸭子越来越担心翻船的时候，经验丰富的水手知道防止船体不断倾斜的力量在加强。同样，今天的温度越高，明天的温度就越可能比今天低。个子很高的人生出来的小孩很可能比他们矮。 投资者都想知道次年的投资前景。“向前看”的一个方法就是对以下两个变量进行评估：长期利率和企业利润。一个切实可行的方法是假设未来的利率和利润幅度会在历史范围之内，并趋向于各自的均值。（注意：如果市场走高，习惯通过“后视镜”来预测未来的投资者会进一步看涨；而如果市场走低，他们又会进一步看跌。明智的投资者会针对这种追涨杀跌的人性缺陷做出相应调整 [1] 。）
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 80 | location 1077-1078 | Added on Sunday, 4 August 2024 12:00:52
+
+对长期投资者而言，重要的共识不是大家现今对遥远未来的共识，而是在我们真正到达遥远未来时能够盛行的共识。
+==========
+赢得输家的游戏：精英投资者如何击败市场（原书第6版） (华章经典·金融投资) ((美)查尔斯·埃利斯) (Z-Library) ((美)查尔斯·埃利斯)
+- Your Highlight on page 81 | location 1094-1098 | Added on Sunday, 4 August 2024 15:35:30
+
+国库券看上去很安全可靠，几乎所有年份都能有可观的回报——表面来看是这样，但是没有扣除通胀影响。然而，考虑通胀影响后，只有60%的年份回报为正。更让人震惊的是，通胀调整后，国库券的平均年回报率为零。 也就是说，国库券回报率往往不过是与通胀率相当。大多数情况下，你确实能把钱收回来，购买力也不受影响。但是，仅此而已。实际上你没有真正获得任何回报，只是把你的钱收回来而已（
+==========
+指数基金投资指南 (银行螺丝钉)
+- Your Highlight at location 1709-1712 | Added on Sunday, 4 August 2024 16:39:11
+
+从长期来看，一只股票的回报率与企业发展息息相关，如果一家企业40年来的盈利一直是资本的6%（即ROE 6%），那40年后你的年均收益率不会和6%有什么区别，即使你当初买的是便宜货。如果该企业在20~30年的盈利都是资本的18%，即使当初出价高，其回报依然会让你满意。 ROE越高的企业，资产运作效率越高，市净率也就越高。
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1611-1618 | Added on Sunday, 4 August 2024 21:51:06
+
+The best way to determine if a fat-head SEO strategy is worthwhile is to research what terms people use to find products in your industry, then see if the search volumes are large enough to make it a worthwhile growth opportunity. Google currently provides a useful tool for this process called Keyword Planner (part of Google AdWords). You can type in search terms that describe your products, and then see the search volumes for these terms. You can also get keywords by looking at your competitors’ websites and seeing what words they use in their homepage titles and headers. You want to find terms that have enough volume so that it would be meaningful if you captured ten percent of the searches for that term. You don’t want to spend resources ranking for a term that only gets 200 searches per month. Optimizing your site to rank for certain key terms is great if your customers
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1611-1617 | Added on Sunday, 4 August 2024 21:51:12
+
+The best way to determine if a fat-head SEO strategy is worthwhile is to research what terms people use to find products in your industry, then see if the search volumes are large enough to make it a worthwhile growth opportunity. Google currently provides a useful tool for this process called Keyword Planner (part of Google AdWords). You can type in search terms that describe your products, and then see the search volumes for these terms. You can also get keywords by looking at your competitors’ websites and seeing what words they use in their homepage titles and headers. You want to find terms that have enough volume so that it would be meaningful if you captured ten percent of the searches for that term. You don’t want to spend resources ranking for a term that only gets 200 searches per month.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1617-1624 | Added on Sunday, 4 August 2024 21:51:39
+
+Optimizing your site to rank for certain key terms is great if your customers are searching for what you have to offer. If, however, your product is so new that there’s no search demand for it yet, a fat-head SEO strategy will not be as effective. This is the difference between fulfilling and creating demand. Rand used Uber, the smartphone-enabled taxi service, as an example: “The problem with Uber is that there’s not a lot of search demand for it. I mean nobody searches for ‘alternatives to taxi cabs that I can hire via my phone.’ It’s just not a thing. And this is a problem with a lot of startups that are essentially entering a niche where nothing had existed previously… There’s just not search volume. What works is finding the topics and the people that will be customers and building content to attract them, rather than just finding the keywords that work in Google.”
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1625-1626 | Added on Sunday, 4 August 2024 21:52:56
+
+If you find keywords with good volume, test them by buying Google ads for your chosen keywords (see chapter
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1635-1638 | Added on Sunday, 4 August 2024 21:53:43
+
+For example, it will be extremely difficult to rank for the term “accounting software.” However, you can focus on ranking for more niche terms (e.g. “accounting software for hairdressers”) by making your keywords more focused. This tactic is more in line with the long-tail strategy we’ll cover shortly. Once you’ve settled on a few terms that will move
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1635-1637 | Added on Sunday, 4 August 2024 21:53:47
+
+For example, it will be extremely difficult to rank for the term “accounting software.” However, you can focus on ranking for more niche terms (e.g. “accounting software for hairdressers”) by making your keywords more focused. This tactic is more in line with the long-tail strategy we’ll cover shortly.
+==========
+聪明的投资者 (本杰明·格雷厄姆)
+- Your Highlight at location 129-129 | Added on Sunday, 4 August 2024 22:01:33
+
+第一章 聪
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1762-1764 | Added on Monday, 5 August 2024 19:32:43
+
+“If we had not started blogging at the beginning the way we did, Unbounce would not be here today… Our content still drives customers. Something we wrote in January 2010 still drives customers today. Whereas if I had spent money on advertising in January, that’s it. That money is spent. If you invest in content, it gets picked up by Google. People find it, they share it, and it refers customers almost indefinitely.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1893-1898 | Added on Monday, 5 August 2024 20:34:15
+
+“With lifecycle messaging, you create the ideal experience for your users when they sign up for your trial. You then create all of the paths they can go down when they fail to go through the ideal experience. And you have emails in place to catch them and help them get back on that [ideal] path.” Let’s take Dropbox as an example. If you create an account but never upload a file, you are not active. Maybe you signed up for the site but got busy and forgot about it. When this happens, Dropbox automatically emails you, reminding you to upload a file. With these targeted emails, Dropbox has increased the chance that you will return to the product and start using it.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 1924-1930 | Added on Monday, 5 August 2024 20:36:09
+
+Email marketing is one of the best channels to surprise and delight your customers. Brennan Dunn of Planscope (a project planning tool for freelancers) sends a weekly email to his customers telling them how much they made that week. Who wouldn’t want to get an email like that? Any sort of communication telling your customers how well they’re doing is likely to go over well. Patrick McKenzie calls this the “you are so awesome” email. Some companies send emails that show previous engagement with the product. For example, photo sites will send you pictures you took a year ago. These emails achieve both goals: they often make you feel good on an emotional level, and also invite you to come back and upload more pictures.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2083-2087 | Added on Monday, 5 August 2024 20:51:49
+
+“Building noteworthy tools that your target audience finds useful is a solid way to gain traction that also pays dividends down the road by helping build your SEO. A simple roadmap to executing this technical strategy includes: Providing something of true value for free, with no strings attached. Making that offering extremely relevant to your core business. Demonstrating that value as quickly as possible.”
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2287-2289 | Added on Monday, 5 August 2024 21:14:58
+
+“What do you have that they (big companies) need? You’re more focused than they are. You have an idea and you’re solving a problem. You’ve developed content or technology and you have a focus. That is very difficult to do at a big corporation.”
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2363-2388 | Added on Tuesday, 6 August 2024 21:10:35
+
+Situation questions. These questions help you learn about a prospect’s buying situation. Typical questions may include ‘How many employees do you have?’ and ‘How is your organization structured?’ Only ask one or two of these questions per conversation since the more situation questions a salesperson asks the less likely they are to close a sale. That’s because people feel like they’re giving you information without getting anything in return. This is especially true of executive decision-makers who are likely more pressed for time. Make sure you ask just enough situation questions to determine if you’re talking to a likely candidate for a sale. Problem questions. These are questions that clarify the buyer’s pain points. Are you happy with your current solution? What problems do you face with it? Like situation questions, these questions should be used sparingly. You want to quickly define the problem they’re facing so you can focus on the implications of this problem and how your solution helps. Implication questions. These questions are meant to make a prospect aware of the implications that stem from the problem they’re facing. These questions are based on information you uncovered while asking your problem questions. Questions could include – Does this problem hurt your productivity? How many people does this issue impact, and in what ways? What customer or employee turnover are you experiencing because of this problem? These questions should make your prospect feel a problem is larger and more urgent than he or she may have initially thought. For example, your prospect may see hard-to-use internal software as just an annoyance, a necessary cost of doing business. Implication questions can help shed light on the problems caused by this hard-to-use software: does it lead to employee overtime because they struggle to accomplish things efficiently? Does it decrease overall quality of work? Does it impact employee turnover? Each of the above questions helps frame the issue as a larger one in your prospect’s mind. Then, you transition to the final set of questions. Need-payoff questions. These questions focus attention on your solution and get buyers to think about the benefits of addressing the problem. Such questions should stem from the implication questions you asked earlier, and can include: How do you feel this solution would help you? What type of impact would this have on you if we were to implement this within the next few months? Whose life would improve if this problem was solved, and how? The SPIN (Situation, Problem, Implication, Need-payoff) question model is a natural progression. First you clarify that the prospect is a potential customer and break the ice (situation questions). Then, you get them talking about the problem (problem questions). Next, you uncover all the implications of this problem (implication questions). Finally, you focus on how your solution addresses these implications and will solve their problem (need-payoff questions).
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2403-2409 | Added on Tuesday, 6 August 2024 21:12:11
+
+PNAME: Process – How does the company buy solutions like yours? Need – How badly does this company need a solution like the one you’re offering? Authority – What individuals have the authority to make the purchase happen? Money – Do they have the funds to buy what you’re selling? How much does not solving the problem cost them? Estimated Timing – What are the budget and decision timelines for a purchase?
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2498-2505 | Added on Tuesday, 6 August 2024 21:23:20
+
+JBoss’s marketing team would call these promising leads to further qualify them. Each of these calls was made specifically to determine if a prospect had the desire to get a deal done. If so, qualified prospects were passed to sales.In this final stage of the funnel, prospects were contacted by individuals from an inside sales team. This is where the standard sales process kicks in: calls, demos, whitepapers, etc.. The sales team closed about 25% of these prospects thanks to their thorough lead qualification (industry averages hover between 7–10%). Unqualified leads not yet ready for sales were put into lead nurturing campaigns. These prospects received the JBoss Newsletter, invitations to webinars, and were encouraged to subscribe to the JBoss blog. Customers who reached a certain level of interaction with nurturing campaigns (for example, those who clicked on certain links in emails or signed up for two webinars) would then be put back in the sales pipeline and contacted by someone from sales.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2578-2579 | Added on Tuesday, 6 August 2024 21:27:59
+
+The first place to look for potential affiliates is your own customer base. They are easy to recruit and work with because they are already familiar with and (hopefully) like your brand.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2603-2605 | Added on Wednesday, 7 August 2024 20:31:09
+
+ClickBank – The leading platform for anyone selling digital products online (courses, ebooks, digital media).ClickBank is relatively cheap to start with, as you only need to pay $50 to list a product on their platform.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2732-2739 | Added on Wednesday, 7 August 2024 20:39:59
+
+Being first can open you up to the opportunity to benefit the early marketing and promotion about the platform itself. As Alex said: “Every year there’s a new platform, new device, new something, and as somebody who’s starting a company you should consider if there’s something really cool you can do on an upcoming platform. Now obviously you can’t plan if a platform is going to be successful, but you can [make some] reasonable guesses based on past experiences with a company. I think people see this as gambling. People take the ‘I will support this platform when it has a million users’ type of approach. That’s a fine thing to do if you are EA or Adobe or something like that. And maybe for Evernote a year from now, that’s the right thing to do. But for a startup, you really aren’t in that position. When a platform is popular, it’s crowded… A lot of people have cool apps and could do really, really well if they were to get this initial push, and that initial push is free if you do it early. But you risk that all that effort is a waste.”
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2740-2743 | Added on Wednesday, 7 August 2024 20:40:15
+
+Evernote was one of the first apps available for Android. Because they had some very cool functionality, they were featured in the Android store for six weeks at a time when it was far less crowded than it is now. This gave them hundreds of thousands of new users, all because they were early and focused their engineering efforts on being first on the platform. Similarly, when Verizon picked up Android phones, Evernote benefitted from
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel)
+- Your Highlight at location 2740-2743 | Added on Wednesday, 7 August 2024 20:40:19
+
+Evernote was one of the first apps available for Android. Because they had some very cool functionality, they were featured in the Android store for six weeks at a time when it was far less crowded than it is now. This gave them hundreds of thousands of new users, all because they were early and focused their engineering efforts on being first on the platform. Similarly, when Verizon picked up Android phones, Evernote benefitted from the national marketing push Verizon did to promote their Android launch.
+==========
+Style Lessons in Clarity and Grace (Joseph Williams, Joseph Bizup) (Z-Library) (Joseph M. Williams)
+- Your Highlight on page 2 | location 303-303 | Added on Wednesday, 7 August 2024 21:20:03
+
+Have something to say, and say it as clearly as you can. That is the only secret of style.
+==========
+Style Lessons in Clarity and Grace (Joseph Williams, Joseph Bizup) (Z-Library) (Joseph M. Williams)
+- Your Highlight on page 2 | location 307-308 | Added on Wednesday, 7 August 2024 21:20:17
+
+Essentially style resembles good manners. It comes of endeavouring to understand others, of thinking for them rather than yourself—or thinking, that is, with the heart as well as the head.
+==========
+Style Lessons in Clarity and Grace (Joseph Williams, Joseph Bizup) (Z-Library) (Joseph M. Williams)
+- Your Highlight on page 2 | location 311-312 | Added on Wednesday, 7 August 2024 21:20:21
+
+The great enemy of clear language is insincerity.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 46 | location 560-562 | Added on Thursday, 8 August 2024 20:05:29
+
+If you’ve racked the shotgun by offering, say, a troubleshooting guide, and 50 people have turned their heads by requesting it, you can rack a different kind of shotgun—like offering a live training workshop. This narrows your 50 down to 10 hyper-responsive targets who will carry you farther than the other 40 combined.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 47 | location 568-570 | Added on Thursday, 8 August 2024 20:05:44
+
+Selling to the right person is more important than all the sales methods, copywriting techniques, and negotiation tactics in the world. Because the wrong person doesn’t have the money. Or the wrong person doesn’t care. The wrong person won’t be persuaded by anything.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 56 | location 675-686 | Added on Thursday, 8 August 2024 20:36:18
+
+THE SEVEN CARDINAL RULES OF THE 80/20 SALES PRO These are the seven cardinal rules of the 80/20 sales professional: 1. No cold calling. Ever. You should attempt to sell only to warm leads. 2. Before you try to sell anything, you must know how much you’re willing to pay to get a new customer. 3. A prospect who “finds” you first is more likely to buy from you than if you find him. 4. You will dramatically enhance your credibility as a salesperson by authoring, speaking, and publishing quality information. 5. Generate leads with information about solving problems, not information about the product itself. 6. You can attain the best negotiating position with customers only when your marketing generates “deal flow” that exceeds your capacity. 7. The most valuable asset you can own is a well-maintained customer database, because people who’ve already bought from you are way easier to sell to than strangers.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 65 | location 791 | Added on Thursday, 8 August 2024 20:44:47
+
+
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 64 | location 784-787 | Added on Thursday, 8 August 2024 20:45:00
+
+The shaded area represents the money you’ve collected: 40 people x $50 = $2,000. The part above the shaded area shows you how much more money those people are capable of spending if you have more to offer them. Since those 40 people bought a $50 product (assuming other people saw the offer and didn’t respond), how many would buy a $30 product? The tool tells you. Enter the 30 in this box
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 64 | location 784-787 | Added on Thursday, 8 August 2024 20:45:07
+
+The shaded area represents the money you’ve collected: 40 people x $50 = $2,000. The part above the shaded area shows you how much more money those people are capable of spending if you have more to offer them. Since those 40 people bought a $50 product (assuming other people saw the offer and didn’t respond), how many would buy a $30 product?
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 63 | location 772-773 | Added on Thursday, 8 August 2024 20:49:15
+
+Discover the 80/20 Power Curve–www.8020curve.com
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 67 | location 796-802 | Added on Thursday, 8 August 2024 20:49:39
+
+How many would buy a $200 product? See Figure 5-5 on page 35. Answer: Eight would spring for a $200 product. This requires that the more expensive product seem proportionally valuable to those people! The customers must feel the $200 product is worth it. They won’t pay $200 for a $1.40 cup of coffee, but they will pay $200 for the espresso machine that went on sale today. So your job as a marketer is to offer them things that they consider to be worth greater amounts of money. If you don’t offer them a super-deluxe experience, they’ll buy one from somebody else.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 69 | location 810-813 | Added on Thursday, 8 August 2024 20:50:52
+
+Sports teams harness a very special kind of feedback: sports fanatics’ unscratchable itch. They do this with season tickets, skyboxes, and private clubs. If you want to see the Chicago Bears, you can get into a single game for as little as $19. Season tickets range from $1,000 for mediocre seats to $10,000 for the best seats near the 50-yard line.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 74 | location 870-873 | Added on Thursday, 8 August 2024 21:14:31
+
+A lot of sports are characterized by this kind of hyper-responsive behavior. Golfers are notorious for being maniacs, and I know a lot of marketers who’ve made fortunes selling golf products. Wherever there are rabid, obsessive customers, there’s a great business.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 77 | location 902-908 | Added on Thursday, 8 August 2024 21:16:28
+
+There are three steps to selling anything. The first step is getting traffic: You gotta get human bodies, eyes, and ears, to sell to—without raising their defenses, if at all humanly possible. The next step is conversion: You have to convince the person that what you have is going to solve their problem. The final step is economics: You have to give them something that’s valuable and get their money. Traffic, conversion, and economics form a Power Triangle that governs everything that happens in sales and marketing.
+==========
+8020 Sales and Marketing. The Definitive Guide to Working Less and Making More (Perry Marshall,Richard Koch) (Z-Library) (Perry Marshall)
+- Your Highlight on page 80 | location 935-938 | Added on Thursday, 8 August 2024 21:29:17
+
+1. Who would buy this? (that’s T) 2. What can we say to persuade them to buy? (that’s C) 3. Can you reach them affordably? (that’s E) 4. Can they give you money? (that’s E)
+==========
+哲学家们都干了些什么_ (林欣浩, ePUBw.COM)
+- Your Highlight at location 130-137 | Added on Friday, 9 August 2024 21:42:15
+
+我们普通人为什么要研究哲学？我在本书前言里说了，这关系到我们个人的哲学问题是：人生的意义是什么？ 但关键是，这些问题宗教都已经回答了呀。只要臣服于宗教信仰，每个人不就可以立刻找到自己的人生意义了吗？苏格拉底生活的年代，遍地都是神庙，只要随便找个神仙问一问，困惑的时候找神职人员聊会儿天，一切人生问题不就都轻松解决了吗？ 而以苏格拉底为代表的哲学讨厌分子在干什么呢？他们在破坏这一切！ 他们坚持说宗教的答案都不可信，可又认为自己无知，不肯拿出答案。这等于把劳动人民从宗教的温柔乡中一把拖到了冰冷无情的现实里，任由老百姓失去精神依靠，在旷野中哭天号地，他们还撒手不管了！
+==========
+哲学家们都干了些什么_ (林欣浩, ePUBw.COM)
+- Your Highlight at location 254-257 | Added on Friday, 9 August 2024 21:51:29
+
+罗马帝国在文化和宗教上奉行的是宽容政策。 比如罗马征服了很多蛮族，那些蛮族原本有自己的神灵。为此，罗马人建了极其宏伟的“万神殿”，把各个蛮族的神灵都供奉到里面。蛮族一看打仗打不过罗马，投降后自己的神灵还能进入那么雄壮的神殿中，所以一点抵抗力都没有，成批成批的都投降了。
+==========
+哲学家们都干了些什么_ (林欣浩, ePUBw.COM)
+- Your Highlight at location 1284-1286 | Added on Saturday, 10 August 2024 18:08:06
+
+但是《倾城之恋》反而能够成为脍炙人口的名篇，正说明了唯我论和目的论能赋予人生一种特殊的美，能给予我们一个理解人生的全新视角。
+==========
+哲学家们都干了些什么_ (林欣浩, ePUBw.COM)
+- Your Highlight at location 1279-1282 | Added on Saturday, 10 August 2024 18:08:13
+
+张爱玲的短篇小说《倾城之恋》里，已经是明日黄花的女主人公本想靠情场手腕俘虏男主人公，怎奈技不如人，眼看就要错失良婿，这时日军突然向香港开战。在战火中，男女主人公同生共死，得以终成眷属。 此时张爱玲写道：“香港的陷落成全了她⋯⋯谁知道呢，也许就因为要成全她，一个大都市倾覆了。”
+==========
+哲学家们都干了些什么_ (林欣浩, ePUBw.COM)
+- Your Highlight at location 1424-1426 | Added on Saturday, 10 August 2024 18:19:41
+
+哲学史上有个不难理解的现象，生活越是困苦的哲学家，他的学说就越关注个人幸福。反之，生活富足的哲学家，学说更容易脱离现实。斯宾诺莎就是典型的前者。
+==========
+复杂生命的起源 (尼克·莱恩 [尼克·莱恩]) (Z-Library) (尼克·莱恩)
+- Your Highlight on page 5 | location 12-12 | Added on Sunday, 11 August 2024 11:38:14
+
+目录
+==========
+生命进化的跃升：40亿年生命史上10个决定性突变 ([美]尼克·莱恩) (Z-Library) (尼克·莱恩)
+- Your Highlight at location 5-6 | Added on Sunday, 11 August 2024 11:39:10
+
+目录
+==========
+Power, Sex, Suicide Mitochondria and the Meaning of Life (Lane Nick) (Z-Library) (Nick Lane)
+- Your Highlight at location 26-27 | Added on Sunday, 11 August 2024 11:43:54
+
+Contents
+==========
